@@ -1,0 +1,2987 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Qoxag\n"
+"POT-Creation-Date: 2021-07-11 19:41+0600\n"
+"PO-Revision-Date: 2021-07-11 19:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:19
+msgid "404"
+msgstr ""
+
+#: 404.php:22
+msgid "Oops... Page Not Found!"
+msgstr ""
+
+#: 404.php:25
+msgid "Try using the button below to go to main page of the site"
+msgstr ""
+
+#: 404.php:26
+msgid "Back to Home Page"
+msgstr ""
+
+#: amp/meta-taxonomy.php:21
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#. translators: %s: list of categories.
+#: amp/meta-taxonomy.php:27
+#, php-format
+msgid "Categories: %s"
+msgstr ""
+
+#: amp/meta-taxonomy.php:35
+msgctxt "Used between list items, there is a space after the comma."
+msgid " "
+msgstr ""
+
+#. translators: %s: list of tags.
+#: amp/meta-taxonomy.php:44
+#, php-format
+msgid "Tags: %s"
+msgstr ""
+
+#: comments.php:25
+msgid "Comments "
+msgstr ""
+
+#: comments.php:27
+msgid "Comment "
+msgstr ""
+
+#: comments.php:38 comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:71
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:74
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:102 core/elementor/controls/qoxag-post-query.php:123
+#: core/elementor/controls/qoxag-post-query.php:126
+#: core/elementor/widgets/news-ticker/news-ticker.php:92
+msgid "Name"
+msgstr ""
+
+#: comments.php:103
+msgid "Email"
+msgstr ""
+
+#: comments.php:104 template-parts/blog/post-parts/part-author.php:15
+msgid "Website"
+msgstr ""
+
+#: comments.php:117
+msgid "Comments"
+msgstr ""
+
+#: comments.php:125
+msgid "You must be"
+msgstr ""
+
+#: comments.php:125
+msgid "logged in"
+msgstr ""
+
+#: comments.php:125
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:130
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:130
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:130
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:135
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:136
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:137
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:138
+msgid "Post Comment"
+msgstr ""
+
+#: core/elementor/content-parts/content-videotab.php:48
+msgid "Up Next"
+msgstr ""
+
+#: core/elementor/controls/icon.php:116 core/elementor/controls/icon.php:118
+#: core/elementor/widgets/back-to-top/back-to-top.php:50
+#: core/elementor/widgets/date-time/date-time.php:50
+msgid "Select Icon"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:35
+#: core/elementor/controls/qoxag-layout.php:67
+#: core/elementor/widgets/main-slider/main-slider.php:83
+#: core/elementor/widgets/main-slider/main-slider.php:103
+#: core/elementor/widgets/post-slider/post-slider.php:82
+#: core/elementor/widgets/post-slider/post-slider.php:125
+msgid "Style"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:40
+#: core/elementor/controls/qoxag-layout.php:71
+#: core/elementor/widgets/post-slider/post-slider.php:87
+msgid "Thumbnail on Top"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:46
+#: core/elementor/controls/qoxag-layout.php:72
+#: core/elementor/widgets/main-slider/main-slider.php:88
+#: core/elementor/widgets/main-slider/main-slider.php:107
+#: core/elementor/widgets/post-slider/post-slider.php:93
+#: core/elementor/widgets/post-slider/post-slider.php:130
+msgid "Thumbnail Background"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:52
+#: core/elementor/controls/qoxag-layout.php:73
+#: core/elementor/widgets/post-slider/post-slider.php:99
+#: core/elementor/widgets/post-slider/post-slider.php:131
+msgid "Thumbnail Left"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:58
+#: core/elementor/controls/qoxag-layout.php:74
+#: core/elementor/widgets/main-slider/main-slider.php:94
+#: core/elementor/widgets/main-slider/main-slider.php:108
+#: core/elementor/widgets/post-slider/post-slider.php:105
+#: core/elementor/widgets/post-slider/post-slider.php:132
+msgid "Thumbnail Right"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:80
+msgid "Column"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:86
+msgid "Column 1"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:87
+msgid "Column 2"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:88
+msgid "Column 3"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:89
+msgid "Column 4"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:90
+msgid "Column 6"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:96
+msgid "Show Image"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:98
+#: core/elementor/controls/qoxag-layout.php:106
+#: core/elementor/controls/qoxag-layout.php:167
+#: core/elementor/controls/qoxag-layout.php:191
+#: core/elementor/controls/qoxag-layout.php:199
+#: core/elementor/controls/qoxag-layout.php:207
+#: core/elementor/controls/qoxag-layout.php:215
+#: core/elementor/controls/qoxag-layout.php:223
+#: core/elementor/controls/qoxag-layout.php:244
+#: core/elementor/controls/qoxag-post-query.php:145
+#: core/elementor/traits/grid-controls.php:29
+#: core/elementor/traits/slider-controls.php:30
+#: core/elementor/traits/slider-controls.php:42
+#: core/elementor/widgets/news-ticker/news-ticker.php:53
+#: core/elementor/widgets/post-block/post-block.php:228
+#: core/elementor/widgets/post-block/post-block.php:271
+#: core/elementor/widgets/post-loadmore/post-loadmore.php:66
+#: core/elementor/widgets/post-tab/post-tab.php:221
+#: core/elementor/widgets/post-videotab/post-videotab.php:145
+#: core/elementor/widgets/title/title.php:128
+#: devmonsta/options/customizer.php:47 devmonsta/options/customizer.php:76
+#: devmonsta/options/customizer.php:104 devmonsta/options/customizer.php:126
+#: devmonsta/options/customizer.php:164 devmonsta/options/customizer.php:232
+#: devmonsta/options/customizer.php:247 devmonsta/options/customizer.php:298
+#: devmonsta/options/customizer.php:313 devmonsta/options/customizer.php:369
+#: devmonsta/options/customizer.php:384 devmonsta/options/customizer.php:428
+#: devmonsta/options/customizer.php:443 devmonsta/options/customizer.php:498
+#: devmonsta/options/customizer.php:521 devmonsta/options/customizer.php:536
+#: devmonsta/options/customizer.php:777 devmonsta/options/customizer.php:793
+#: devmonsta/options/customizer.php:808 devmonsta/options/customizer.php:823
+#: devmonsta/options/customizer.php:838 devmonsta/options/customizer.php:853
+#: devmonsta/options/customizer.php:877 devmonsta/options/customizer.php:910
+#: devmonsta/options/customizer.php:985 devmonsta/options/customizer.php:1000
+#: devmonsta/options/customizer.php:1015 devmonsta/options/customizer.php:1029
+#: devmonsta/options/customizer.php:1044 devmonsta/options/customizer.php:1059
+#: devmonsta/options/customizer.php:1074 devmonsta/options/customizer.php:1098
+#: devmonsta/options/customizer.php:1137 devmonsta/options/customizer.php:1152
+#: devmonsta/options/customizer.php:1175 devmonsta/options/customizer.php:1190
+#: devmonsta/options/customizer.php:1271 devmonsta/options/customizer.php:1436
+#: devmonsta/options/customizer.php:1487 devmonsta/options/customizer.php:1516
+#: devmonsta/options/customizer.php:1532 devmonsta/options/customizer.php:1548
+#: devmonsta/options/customizer.php:1564 devmonsta/options/customizer.php:1580
+#: devmonsta/options/posts/page.php:30 devmonsta/options/posts/page.php:45
+#: devmonsta/options/posts/post.php:32 devmonsta/options/posts/post.php:179
+#: devmonsta/options/taxonomies/category.php:46
+msgid "Yes"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:99
+#: core/elementor/controls/qoxag-layout.php:107
+#: core/elementor/controls/qoxag-layout.php:168
+#: core/elementor/controls/qoxag-layout.php:192
+#: core/elementor/controls/qoxag-layout.php:200
+#: core/elementor/controls/qoxag-layout.php:208
+#: core/elementor/controls/qoxag-layout.php:216
+#: core/elementor/controls/qoxag-layout.php:224
+#: core/elementor/controls/qoxag-layout.php:245
+#: core/elementor/controls/qoxag-post-query.php:146
+#: core/elementor/traits/grid-controls.php:30
+#: core/elementor/traits/slider-controls.php:31
+#: core/elementor/traits/slider-controls.php:43
+#: core/elementor/widgets/news-ticker/news-ticker.php:54
+#: core/elementor/widgets/post-block/post-block.php:229
+#: core/elementor/widgets/post-block/post-block.php:272
+#: core/elementor/widgets/post-loadmore/post-loadmore.php:67
+#: core/elementor/widgets/post-tab/post-tab.php:222
+#: core/elementor/widgets/post-videotab/post-videotab.php:146
+#: core/elementor/widgets/title/title.php:129
+#: devmonsta/options/customizer.php:44 devmonsta/options/customizer.php:73
+#: devmonsta/options/customizer.php:101 devmonsta/options/customizer.php:123
+#: devmonsta/options/customizer.php:161 devmonsta/options/customizer.php:229
+#: devmonsta/options/customizer.php:244 devmonsta/options/customizer.php:295
+#: devmonsta/options/customizer.php:310 devmonsta/options/customizer.php:366
+#: devmonsta/options/customizer.php:381 devmonsta/options/customizer.php:425
+#: devmonsta/options/customizer.php:440 devmonsta/options/customizer.php:495
+#: devmonsta/options/customizer.php:518 devmonsta/options/customizer.php:533
+#: devmonsta/options/customizer.php:774 devmonsta/options/customizer.php:790
+#: devmonsta/options/customizer.php:805 devmonsta/options/customizer.php:820
+#: devmonsta/options/customizer.php:835 devmonsta/options/customizer.php:850
+#: devmonsta/options/customizer.php:874 devmonsta/options/customizer.php:907
+#: devmonsta/options/customizer.php:982 devmonsta/options/customizer.php:997
+#: devmonsta/options/customizer.php:1012 devmonsta/options/customizer.php:1026
+#: devmonsta/options/customizer.php:1041 devmonsta/options/customizer.php:1056
+#: devmonsta/options/customizer.php:1071 devmonsta/options/customizer.php:1095
+#: devmonsta/options/customizer.php:1134 devmonsta/options/customizer.php:1149
+#: devmonsta/options/customizer.php:1172 devmonsta/options/customizer.php:1187
+#: devmonsta/options/customizer.php:1268 devmonsta/options/customizer.php:1433
+#: devmonsta/options/customizer.php:1484 devmonsta/options/customizer.php:1513
+#: devmonsta/options/customizer.php:1529 devmonsta/options/customizer.php:1545
+#: devmonsta/options/customizer.php:1561 devmonsta/options/customizer.php:1577
+#: devmonsta/options/posts/page.php:27 devmonsta/options/posts/page.php:42
+#: devmonsta/options/posts/post.php:29 devmonsta/options/posts/post.php:176
+#: devmonsta/options/taxonomies/category.php:43
+msgid "No"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:104
+msgid "Show Category"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:112
+#: core/elementor/widgets/post-block/post-block.php:211
+msgid "Category Style"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:116
+#: core/elementor/controls/qoxag-layout.php:233
+#: core/elementor/widgets/post-block/post-block.php:82
+#: core/elementor/widgets/post-block/post-block.php:146
+#: core/elementor/widgets/post-block/post-block.php:215
+#: core/elementor/widgets/post-tab/post-tab.php:121
+#: core/elementor/widgets/post-tab/post-tab.php:158
+#: core/elementor/widgets/title/title.php:52
+#: core/elementor/widgets/title/title.php:68
+msgid "Style 1"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:117
+#: core/elementor/controls/qoxag-layout.php:234
+#: core/elementor/widgets/post-block/post-block.php:88
+#: core/elementor/widgets/post-block/post-block.php:147
+#: core/elementor/widgets/post-block/post-block.php:216
+#: core/elementor/widgets/post-tab/post-tab.php:130
+#: core/elementor/widgets/post-tab/post-tab.php:159
+msgid "Style 2"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:118
+#: core/elementor/widgets/post-block/post-block.php:94
+#: core/elementor/widgets/post-block/post-block.php:148
+#: core/elementor/widgets/post-block/post-block.php:217
+#: core/elementor/widgets/post-tab/post-tab.php:139
+#: core/elementor/widgets/post-tab/post-tab.php:160
+msgid "Style 3"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:126
+#: devmonsta/options/customizer.php:894 devmonsta/options/customizer.php:1082
+msgid "Number of Categories"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:135
+msgid "Category Position"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:139
+msgid "Content Part"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:140
+msgid "On Image"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:150
+#: core/elementor/traits/slider-controls.php:245
+#: core/elementor/widgets/news-ticker/news-ticker.php:134
+msgid "Title Word Limit"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:165
+msgid "Show Description"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:173
+msgid "Description Word Limit"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:189
+msgid "Show Date"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:197
+msgid "Show Author"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:205
+msgid "Show View Count"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:213
+msgid "Show Reading Time"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:221
+#: devmonsta/options/customizer.php:903 devmonsta/options/customizer.php:1168
+msgid "Show Review Rating"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:229
+msgid "Review Style"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:242
+msgid "Show Read More Link"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:250
+msgid "Read More Text"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:252
+msgid "Read Story"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:259
+#: core/elementor/traits/slider-controls.php:78
+msgid "Left Arrow"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:274
+#: core/elementor/widgets/post-block/post-block.php:242
+msgid "Content Alignment"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:278
+#: core/elementor/traits/grid-controls.php:939
+#: core/elementor/widgets/date-time/date-time.php:76
+#: core/elementor/widgets/news-ticker/news-ticker.php:155
+#: core/elementor/widgets/post-block/post-block.php:246
+#: core/elementor/widgets/site-logo/site-logo.php:92
+msgid "Left"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:282
+#: core/elementor/traits/grid-controls.php:943
+#: core/elementor/widgets/date-time/date-time.php:80
+#: core/elementor/widgets/news-ticker/news-ticker.php:159
+#: core/elementor/widgets/post-block/post-block.php:250
+#: core/elementor/widgets/site-logo/site-logo.php:96
+msgid "Center"
+msgstr ""
+
+#: core/elementor/controls/qoxag-layout.php:286
+#: core/elementor/traits/grid-controls.php:947
+#: core/elementor/widgets/date-time/date-time.php:84
+#: core/elementor/widgets/news-ticker/news-ticker.php:163
+#: core/elementor/widgets/post-block/post-block.php:254
+#: core/elementor/widgets/site-logo/site-logo.php:100
+msgid "Right"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:33
+msgid "Posts Count"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:44
+msgid ""
+"Total number of posts to show in the slider. If Slider Controls -> Loop is "
+"enabled, slides will repeat again."
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:49
+msgid "Slides to Show"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:57
+msgid "Number of slides to be visible in the slider."
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:63
+#: core/elementor/widgets/post-tab/post-tab.php:77
+msgid "Post Tabs"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:67
+#: core/elementor/widgets/post-tab/post-tab.php:82
+msgid "Add Label"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:74
+#: core/elementor/controls/qoxag-post-query.php:89
+#: core/elementor/widgets/news-ticker/news-ticker.php:124
+#: core/elementor/widgets/post-tab/post-tab.php:59
+msgid "Select Categories"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:81
+#: core/elementor/widgets/post-tab/post-tab.php:69
+msgid "Tab title"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:97
+msgid "Select Tags"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:105
+msgid "Select Post Format"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:108
+msgid "Standard"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:109
+msgid "Video"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:117
+msgid "Order By"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:121
+#: core/elementor/widgets/news-ticker/news-ticker.php:88
+msgid "Date"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:122
+#: core/elementor/traits/grid-controls.php:63
+#: core/elementor/traits/grid-controls.php:148
+#: core/elementor/traits/slider-controls.php:223
+#: core/elementor/widgets/audio-slider/audio-slider.php:152
+#: core/elementor/widgets/news-ticker/news-ticker.php:72
+#: core/elementor/widgets/news-ticker/news-ticker.php:90
+#: core/elementor/widgets/post-slider/post-slider.php:215
+#: core/elementor/widgets/title/title.php:139
+msgid "Title"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:124
+#: core/elementor/widgets/news-ticker/news-ticker.php:93
+msgid "Random"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:125
+#: core/elementor/widgets/news-ticker/news-ticker.php:89
+msgid "ID"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:127
+msgid "Popular Posts"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:132
+msgid "Order"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:136
+#: core/elementor/widgets/news-ticker/news-ticker.php:106
+msgid "Descending"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:137
+#: core/elementor/widgets/news-ticker/news-ticker.php:107
+msgid "Ascending"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:142
+msgid "Post Skip"
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:143
+msgid "This field will be used as \"Post offset\""
+msgstr ""
+
+#: core/elementor/controls/qoxag-post-query.php:151
+msgid "Skip Post Count"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: core/elementor/elementor.php:98
+msgid "Qoxag"
+msgstr ""
+
+#: core/elementor/elementor.php:215
+msgid "Qoxag Icons"
+msgstr ""
+
+#: core/elementor/templates/author/author.php:21
+#, php-format
+msgctxt "post count"
+msgid "Post"
+msgid_plural "%1$s Posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/elementor/templates/author/author.php:24
+msgid "View All Posts"
+msgstr ""
+
+#: core/elementor/templates/post-loadmore/post-loadmore.php:151
+msgid "Load More"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:19
+msgid "Advance Ordering"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:27
+msgid "Enable Ordering"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:33
+msgid "Lowest value will be on top and highest value will be on the bottom."
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:40
+#: core/elementor/traits/grid-controls.php:367
+msgid "Category"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:83
+#: core/elementor/traits/grid-controls.php:606
+msgid "Meta"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:105
+#: core/elementor/traits/grid-controls.php:742
+msgid "Description"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:156
+#: core/elementor/traits/grid-controls.php:384
+#: core/elementor/traits/grid-controls.php:430
+#: core/elementor/traits/grid-controls.php:623
+#: core/elementor/traits/grid-controls.php:656
+#: core/elementor/traits/grid-controls.php:757
+#: core/elementor/traits/grid-controls.php:1002
+#: core/elementor/traits/grid-controls.php:1022
+#: core/elementor/traits/slider-controls.php:411
+#: core/elementor/traits/slider-controls.php:445
+#: core/elementor/widgets/post-videotab/post-videotab.php:305
+#: core/elementor/widgets/title/title.php:296
+msgid "Color"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:171
+#: core/elementor/traits/grid-controls.php:681
+#: core/elementor/traits/grid-controls.php:770
+#: core/elementor/traits/grid-controls.php:961
+#: core/elementor/widgets/post-videotab/post-videotab.php:318
+msgid "Typography"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:202
+#: core/elementor/traits/grid-controls.php:701
+#: core/elementor/traits/grid-controls.php:800
+#: core/elementor/traits/grid-controls.php:1081
+#: core/elementor/widgets/post-videotab/post-videotab.php:351
+#: core/elementor/widgets/title/title.php:338
+#: core/elementor/widgets/title/title.php:489
+msgid "Margin"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:231
+msgid "Post Thumbnail"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:246
+#: core/elementor/traits/slider-controls.php:306
+#: core/elementor/traits/slider-controls.php:738
+#: core/elementor/widgets/audio-slider/audio-slider.php:253
+#: core/elementor/widgets/post-block/post-block.php:365
+#: core/elementor/widgets/post-slider/post-slider.php:316
+#: core/elementor/widgets/post-tab/post-tab.php:311
+#: core/elementor/widgets/post-videotab/post-videotab.php:230
+msgid "Image Aspect Ratio"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:272
+#: core/elementor/traits/grid-controls.php:291
+msgid "Not applicable for Featured Layouts."
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:301
+msgid "Background"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:335
+#: core/elementor/traits/grid-controls.php:516
+#: core/elementor/traits/grid-controls.php:1049
+#: core/elementor/traits/slider-controls.php:588
+#: core/elementor/widgets/author/author.php:220
+#: core/elementor/widgets/back-to-top/back-to-top.php:93
+#: core/elementor/widgets/back-to-top/back-to-top.php:168
+#: core/elementor/widgets/title/title.php:504
+msgid "Border Radius"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:377
+#: core/elementor/traits/grid-controls.php:616
+#: core/elementor/traits/grid-controls.php:995
+#: core/elementor/traits/slider-controls.php:404
+msgid "Normal"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:397
+#: core/elementor/traits/grid-controls.php:443
+#: core/elementor/widgets/post-grid/post-grid.php:166
+#: core/elementor/widgets/post-masonary/post-masonary.php:169
+#: devmonsta/options/taxonomies/category.php:23
+msgid "Background Color"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:414
+msgid "Individual category style can also set from Posts => Categories"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:423
+#: core/elementor/traits/grid-controls.php:649
+#: core/elementor/traits/slider-controls.php:438
+msgid "Hover"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:470
+msgid "Category Typography"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:496
+#: core/elementor/traits/grid-controls.php:719
+#: core/elementor/traits/grid-controls.php:1061
+#: core/elementor/traits/slider-controls.php:558
+#: core/elementor/widgets/news-ticker/news-ticker.php:177
+#: core/elementor/widgets/site-logo/site-logo.php:115
+msgid "Padding"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:536
+#: core/elementor/widgets/post-block/post-block.php:476
+msgid "Category Vertical Position"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:570
+msgid "Category Horizontal Position"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:635
+msgid "Separator Color"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:832
+#: core/elementor/widgets/post-block/post-block.php:531
+msgid "Background for the inner contents"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:835
+#: core/elementor/widgets/audio-slider/audio-slider.php:305
+#: core/elementor/widgets/post-block/post-block.php:534
+#: core/elementor/widgets/post-slider/post-slider.php:368
+msgid "Content Background"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:846
+#: core/elementor/traits/slider-controls.php:359
+#: core/elementor/traits/slider-controls.php:781
+#: core/elementor/widgets/audio-slider/audio-slider.php:352
+#: core/elementor/widgets/post-block/post-block.php:408
+#: core/elementor/widgets/post-slider/post-slider.php:415
+#: core/elementor/widgets/post-tab/post-tab.php:354
+#: core/elementor/widgets/post-videotab/post-videotab.php:273
+msgid "Content Padding"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:849
+msgid "Padding for the inner contents"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:868
+#: core/elementor/widgets/author/author.php:239
+msgid "Wrapper Margin"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:871
+msgid "Margin for the single item"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:886
+msgid "Wrapper Padding"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:889
+msgid "Padding for the single item"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:905
+#: core/elementor/traits/grid-controls.php:1040
+#: core/elementor/traits/slider-controls.php:580
+#: core/elementor/widgets/back-to-top/back-to-top.php:117
+#: core/elementor/widgets/back-to-top/back-to-top.php:181
+msgid "Border"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:927
+msgid "Nav Style"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:935
+msgid "Align"
+msgstr ""
+
+#: core/elementor/traits/grid-controls.php:1015
+#: core/libs/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:20
+msgid "Slider Controls"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:28
+msgid "Loop"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:40
+msgid "Autoplay"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:52
+msgid "Slide Speed"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:66
+msgid "Show Arrows"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:68
+#: core/elementor/traits/slider-controls.php:110
+msgid "Hide"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:69
+#: core/elementor/traits/slider-controls.php:111
+msgid "Show"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:93
+msgid "Right Arrow"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:108
+#: core/elementor/widgets/news-ticker/news-ticker.php:63
+msgid "Show Dots"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:123
+msgid "Column Gap"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:160
+msgid "Main Slider Style"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:168
+msgid "Bottom Spacing"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:195
+msgid "Thumb Container Width"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:232
+#: core/elementor/widgets/audio-slider/audio-slider.php:160
+#: core/elementor/widgets/author/author.php:64
+#: core/elementor/widgets/post-slider/post-slider.php:223
+#: devmonsta/options/customizer.php:270 devmonsta/options/customizer.php:339
+#: devmonsta/options/customizer.php:400 devmonsta/options/customizer.php:469
+msgid "Title Color"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:264
+#: core/elementor/traits/slider-controls.php:707
+#: core/elementor/widgets/audio-slider/audio-slider.php:175
+#: core/elementor/widgets/news-ticker/news-ticker.php:210
+#: core/elementor/widgets/post-block/post-block.php:322
+#: core/elementor/widgets/post-slider/post-slider.php:238
+#: core/elementor/widgets/post-tab/post-tab.php:280
+#: core/elementor/widgets/post-videotab/post-videotab.php:199
+msgid "Title Typography"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:297
+msgid "Thumbnail"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:347
+#: core/elementor/widgets/audio-slider/audio-slider.php:288
+#: core/elementor/widgets/post-slider/post-slider.php:351
+msgid "Meta Color"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:386
+msgid "Slider Navigation"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:394
+msgid "Arrow Style"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:424
+#: core/elementor/traits/slider-controls.php:457
+msgid "background Color"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:473
+msgid "Arrows Size"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:498
+msgid "Arrow Vertical Position"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:528
+msgid "Arrow Horizontal Position"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:609
+msgid "Dots Style"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:619
+msgid "Dots Color"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:631
+msgid "Actove Dots Color"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:643
+msgid "Dots Size"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:667
+msgid "Active Dots Size"
+msgstr ""
+
+#: core/elementor/traits/slider-controls.php:698
+#: core/elementor/widgets/post-block/post-block.php:313
+#: core/elementor/widgets/post-grid/post-grid.php:87
+#: core/elementor/widgets/post-loadmore/post-loadmore.php:99
+#: core/elementor/widgets/post-masonary/post-masonary.php:90
+#: core/elementor/widgets/post-tab/post-tab.php:271
+#: core/elementor/widgets/post-videotab/post-videotab.php:190
+msgid "Featured"
+msgstr ""
+
+#: core/elementor/widgets/audio-slider/audio-slider.php:26
+msgid "Qoxag Audio Slider"
+msgstr ""
+
+#: core/elementor/widgets/audio-slider/audio-slider.php:49
+#: core/elementor/widgets/main-slider/main-slider.php:50
+#: core/elementor/widgets/post-slider/post-slider.php:51
+msgid "Post Slider Settings"
+msgstr ""
+
+#: core/elementor/widgets/audio-slider/audio-slider.php:71
+#: core/elementor/widgets/main-slider/main-slider.php:77
+#: core/elementor/widgets/post-block/post-block.php:69
+#: core/elementor/widgets/post-grid/post-grid.php:70
+#: core/elementor/widgets/post-loadmore/post-loadmore.php:81
+#: core/elementor/widgets/post-masonary/post-masonary.php:70
+#: core/elementor/widgets/post-slider/post-slider.php:73
+#: core/elementor/widgets/post-tab/post-tab.php:108
+#: core/elementor/widgets/post-videotab/post-videotab.php:70
+msgid "Layout"
+msgstr ""
+
+#: core/elementor/widgets/audio-slider/audio-slider.php:91
+#: core/elementor/widgets/post-slider/post-slider.php:154
+msgid "Featured post"
+msgstr ""
+
+#: core/elementor/widgets/audio-slider/audio-slider.php:141
+#: core/elementor/widgets/post-slider/post-slider.php:204
+msgid "Featured Slide"
+msgstr ""
+
+#: core/elementor/widgets/audio-slider/audio-slider.php:210
+#: core/elementor/widgets/post-slider/post-slider.php:273
+msgid "Featured Thumbnail"
+msgstr ""
+
+#: core/elementor/widgets/audio-slider/audio-slider.php:219
+#: core/elementor/widgets/post-slider/post-slider.php:282
+msgid "Image Width"
+msgstr ""
+
+#: core/elementor/widgets/audio-slider/audio-slider.php:319
+#: core/elementor/widgets/post-slider/post-slider.php:382
+msgid "Container Width"
+msgstr ""
+
+#: core/elementor/widgets/audio-slider/audio-slider.php:390
+#: core/elementor/widgets/post-block/post-block.php:463
+#: core/elementor/widgets/post-slider/post-slider.php:453
+msgid "Content Border Radius"
+msgstr ""
+
+#: core/elementor/widgets/audio-slider/audio-slider.php:423
+#: core/elementor/widgets/main-slider/main-slider.php:206
+#: core/elementor/widgets/post-block/post-block.php:547
+#: core/elementor/widgets/post-grid/post-grid.php:133
+#: core/elementor/widgets/post-loadmore/post-loadmore.php:145
+#: core/elementor/widgets/post-masonary/post-masonary.php:136
+#: core/elementor/widgets/post-slider/post-slider.php:486
+#: core/elementor/widgets/post-tab/post-tab.php:378
+#: core/elementor/widgets/post-videotab/post-videotab.php:375
+msgid "Wrapper Style"
+msgstr ""
+
+#: core/elementor/widgets/author/author.php:21
+msgid "Author"
+msgstr ""
+
+#: core/elementor/widgets/author/author.php:38
+msgid "Settings"
+msgstr ""
+
+#: core/elementor/widgets/author/author.php:56
+msgid "Styles"
+msgstr ""
+
+#: core/elementor/widgets/author/author.php:77
+msgid "Title Typography "
+msgstr ""
+
+#: core/elementor/widgets/author/author.php:110
+#: core/elementor/widgets/title/title.php:188
+msgid "Title Margin"
+msgstr ""
+
+#: core/elementor/widgets/author/author.php:130
+msgid "Post Count Color"
+msgstr ""
+
+#: core/elementor/widgets/author/author.php:143
+msgid "Post Count Typography "
+msgstr ""
+
+#: core/elementor/widgets/author/author.php:176
+msgid "Post Count Margin"
+msgstr ""
+
+#: core/elementor/widgets/author/author.php:196
+#: devmonsta/options/customizer.php:1319
+msgid "Link Color"
+msgstr ""
+
+#: core/elementor/widgets/author/author.php:208
+msgid "Link Hover Color"
+msgstr ""
+
+#: core/elementor/widgets/back-to-top/back-to-top.php:22
+msgid "Qoxag Back To Top"
+msgstr ""
+
+#: core/elementor/widgets/back-to-top/back-to-top.php:42
+msgid "back to top settings"
+msgstr ""
+
+#: core/elementor/widgets/back-to-top/back-to-top.php:64
+msgid "Button Normal"
+msgstr ""
+
+#: core/elementor/widgets/back-to-top/back-to-top.php:71
+msgid "Button color"
+msgstr ""
+
+#: core/elementor/widgets/back-to-top/back-to-top.php:84
+msgid "Backto BG color"
+msgstr ""
+
+#: core/elementor/widgets/back-to-top/back-to-top.php:105
+msgid "Icon Size"
+msgstr ""
+
+#: core/elementor/widgets/back-to-top/back-to-top.php:125
+msgid "Button Padding"
+msgstr ""
+
+#: core/elementor/widgets/back-to-top/back-to-top.php:139
+msgid "Button Hover"
+msgstr ""
+
+#: core/elementor/widgets/back-to-top/back-to-top.php:146
+msgid "Backto Hover color"
+msgstr ""
+
+#: core/elementor/widgets/back-to-top/back-to-top.php:159
+msgid "Backto Button Hover BG color"
+msgstr ""
+
+#: core/elementor/widgets/date-time/date-time.php:21
+msgid "Date and Time"
+msgstr ""
+
+#: core/elementor/widgets/date-time/date-time.php:42
+msgid "Date settings"
+msgstr ""
+
+#: core/elementor/widgets/date-time/date-time.php:60
+msgid "Date color"
+msgstr ""
+
+#: core/elementor/widgets/date-time/date-time.php:71
+#: core/elementor/widgets/news-ticker/news-ticker.php:150
+#: core/elementor/widgets/site-logo/site-logo.php:87
+msgid "Alignment"
+msgstr ""
+
+#: core/elementor/widgets/date-time/date-time.php:98
+msgid "Date Typography"
+msgstr ""
+
+#: core/elementor/widgets/date-time/date-time.php:107
+msgid "Date Padding"
+msgstr ""
+
+#: core/elementor/widgets/main-slider/main-slider.php:27
+msgid "Qoxag Main Slider"
+msgstr ""
+
+#: core/elementor/widgets/main-slider/main-slider.php:127
+msgid "Show Video Popup Icon"
+msgstr ""
+
+#: core/elementor/widgets/main-slider/main-slider.php:214
+#: core/elementor/widgets/post-grid/post-grid.php:141
+#: core/elementor/widgets/post-loadmore/post-loadmore.php:153
+#: core/elementor/widgets/post-masonary/post-masonary.php:144
+#: core/elementor/widgets/post-videotab/post-videotab.php:383
+msgid "Content Width"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:24
+msgid "News Ticker"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:44
+msgid "News Ticket Content"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:51
+msgid "Show Navigation"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:75
+msgid "News ticker title"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:76
+msgid "Trending"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:84
+msgid "Posts Select By"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:91
+msgid "Comment Count"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:94
+msgid "Menu Order"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:102
+msgid "Post Order"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:115
+msgid "Post Count"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:190
+msgid " Post"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:198
+#: core/elementor/widgets/post-block/post-block.php:352
+#: core/elementor/widgets/title/title.php:146
+msgid "Title color"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:219
+msgid "News Color"
+msgstr ""
+
+#: core/elementor/widgets/news-ticker/news-ticker.php:231
+msgid "News Typography"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:24
+msgid "Qoxag Post Block"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:47
+msgid "Post Block Settings"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:77
+#: core/elementor/widgets/post-block/post-block.php:142
+#: core/elementor/widgets/post-tab/post-tab.php:116
+#: core/elementor/widgets/post-tab/post-tab.php:154
+msgid "Block Style"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:100
+#: core/elementor/widgets/post-block/post-block.php:149
+msgid "Style 4"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:106
+#: core/elementor/widgets/post-block/post-block.php:150
+msgid "Style 5"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:112
+#: core/elementor/widgets/post-block/post-block.php:151
+msgid "Style 6"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:118
+#: core/elementor/widgets/post-block/post-block.php:152
+msgid "Style 7"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:124
+#: core/elementor/widgets/post-block/post-block.php:153
+msgid "Style 8"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:130
+#: core/elementor/widgets/post-block/post-block.php:154
+msgid "Style 9"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:190
+#: core/elementor/widgets/post-tab/post-tab.php:193
+#: core/elementor/widgets/post-videotab/post-videotab.php:122
+msgid "Featured Post"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:226
+#: core/elementor/widgets/post-tab/post-tab.php:219
+#: core/elementor/widgets/post-videotab/post-videotab.php:143
+msgid "Reverse Featured Column"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:269
+msgid "Skip Featured Post"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:427
+msgid "Meta color"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:438
+msgid "Description color"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:450
+msgid "Content Margin"
+msgstr ""
+
+#: core/elementor/widgets/post-block/post-block.php:507
+msgid "Category Padding"
+msgstr ""
+
+#: core/elementor/widgets/post-grid/post-grid.php:25
+msgid "Qoxag Post Grid"
+msgstr ""
+
+#: core/elementor/widgets/post-grid/post-grid.php:48
+#: core/elementor/widgets/post-masonary/post-masonary.php:48
+#: core/elementor/widgets/post-tab/post-tab.php:49
+msgid "Post Grid Settings"
+msgstr ""
+
+#: core/elementor/widgets/post-loadmore/post-loadmore.php:25
+msgid "Qoxag Post Load More"
+msgstr ""
+
+#: core/elementor/widgets/post-loadmore/post-loadmore.php:48
+msgid "Post Loadmore Settings"
+msgstr ""
+
+#: core/elementor/widgets/post-loadmore/post-loadmore.php:64
+msgid "Show Load More"
+msgstr ""
+
+#: core/elementor/widgets/post-masonary/post-masonary.php:25
+msgid "Qoxag Post Masonary"
+msgstr ""
+
+#: core/elementor/widgets/post-slider/post-slider.php:28
+msgid "Qoxag Post Slider"
+msgstr ""
+
+#: core/elementor/widgets/post-slider/post-slider.php:112
+#: core/elementor/widgets/post-slider/post-slider.php:133
+msgid "Featured Slider"
+msgstr ""
+
+#: core/elementor/widgets/post-slider/post-slider.php:129
+msgid "Thumbnail Top"
+msgstr ""
+
+#: core/elementor/widgets/post-tab/post-tab.php:26
+msgid "Qoxag Post Tab"
+msgstr ""
+
+#: core/elementor/widgets/post-videotab/post-videotab.php:25
+msgid "Qoxag Post Video Tab"
+msgstr ""
+
+#: core/elementor/widgets/post-videotab/post-videotab.php:48
+msgid "Post Video Tab Settings"
+msgstr ""
+
+#: core/elementor/widgets/post-videotab/post-videotab.php:97
+msgid "List Height"
+msgstr ""
+
+#: core/elementor/widgets/post-videotab/post-videotab.php:297
+msgid "List Title Style"
+msgstr ""
+
+#: core/elementor/widgets/site-logo/site-logo.php:22
+msgid "Site Logo"
+msgstr ""
+
+#: core/elementor/widgets/site-logo/site-logo.php:42
+msgid "Logo settings"
+msgstr ""
+
+#: core/elementor/widgets/site-logo/site-logo.php:49
+msgid "Dark Logo"
+msgstr ""
+
+#: core/elementor/widgets/site-logo/site-logo.php:57
+msgid "Light Logo"
+msgstr ""
+
+#: core/elementor/widgets/site-logo/site-logo.php:65
+msgid "Logo Width"
+msgstr ""
+
+#: core/elementor/widgets/site-logo/site-logo.php:76
+msgid "Logo Height"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:21
+msgid "Qoxag Title"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:40
+msgid "Title settings"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:47
+#: core/elementor/widgets/title/title.php:64
+msgid "Title style"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:77
+msgid "Heading Title"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:79
+msgid "Section title"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:80
+#: core/elementor/widgets/title/title.php:116
+msgid "Type your title here"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:87
+msgid "Title HTML Tag"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:105
+msgid "Show Shadow Text"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:113
+#: core/elementor/widgets/title/title.php:286
+msgid "Shadow Text"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:115
+msgid "Section shadow text"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:125
+msgid "Show separator"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:207
+msgid "Title Separator Color"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:219
+msgid "Separator Height"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:246
+msgid "Title background Width"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:273
+msgid "Title BG Color"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:361
+msgid "Separator"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:370
+msgid "separator color"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:381
+msgid "Width"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:408
+msgid "Height"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:435
+msgid "Position From left"
+msgstr ""
+
+#: core/elementor/widgets/title/title.php:462
+msgid "Position From top"
+msgstr ""
+
+#: core/helpers/functions/global.php:161
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: core/helpers/functions/global.php:301
+msgid "Search"
+msgstr ""
+
+#: core/helpers/functions/global.php:392 core/helpers/functions/global.php:394
+msgid " min read"
+msgstr ""
+
+#: core/helpers/functions/menu-functions.php:9
+msgid "Open menu"
+msgstr ""
+
+#: core/helpers/functions/template.php:22
+msgid "Previous post"
+msgstr ""
+
+#: core/helpers/functions/template.php:29
+msgid "Next post"
+msgstr ""
+
+#: core/helpers/functions/template.php:50
+msgid "Home"
+msgstr ""
+
+#: core/helpers/functions/template.php:109
+#: core/helpers/functions/template.php:113
+#: core/helpers/functions/template.php:121
+msgid "Blogs for"
+msgstr ""
+
+#: core/helpers/functions/template.php:125
+msgid "Author Blogs"
+msgstr ""
+
+#: core/helpers/functions/template.php:128
+msgid "Blogs"
+msgstr ""
+
+#: core/helpers/functions/template.php:131
+msgid "Search Result"
+msgstr ""
+
+#: core/helpers/functions/template.php:134
+msgid "404 Not Found"
+msgstr ""
+
+#: core/helpers/functions/template.php:184
+#: core/helpers/functions/template.php:235
+#: core/helpers/functions/template.php:606
+msgid " Comments "
+msgstr ""
+
+#: core/helpers/functions/template.php:184
+#: core/helpers/functions/template.php:235
+#: core/helpers/functions/template.php:606
+msgid " Comment "
+msgstr ""
+
+#: core/helpers/functions/template.php:277
+msgid "says:"
+msgstr ""
+
+#: core/helpers/functions/template.php:281
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: core/helpers/functions/template.php:289
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: core/helpers/functions/template.php:292
+msgid "(Edit)"
+msgstr ""
+
+#: core/helpers/functions/template.php:319
+msgid "More pages: "
+msgstr ""
+
+#: core/helpers/functions/template.php:325
+msgid "Next "
+msgstr ""
+
+#: core/helpers/functions/template.php:326
+msgid " Previous"
+msgstr ""
+
+#: core/helpers/functions/template.php:430
+msgid "Tags: "
+msgstr ""
+
+#: core/helpers/functions/template.php:582
+msgid "by"
+msgstr ""
+
+#: core/helpers/functions/template.php:731 devmonsta/options/posts/post.php:187
+msgid "Prep time:"
+msgstr ""
+
+#: core/helpers/functions/template.php:742
+msgid "Cook time:"
+msgstr ""
+
+#: core/helpers/functions/template.php:753
+msgid "Total time:"
+msgstr ""
+
+#: core/helpers/functions/template.php:764
+msgid "Serving time:"
+msgstr ""
+
+#: core/helpers/functions/template.php:772
+msgid "Print Recipe"
+msgstr ""
+
+#: core/helpers/functions/template.php:774
+msgid "Share Recipe"
+msgstr ""
+
+#: core/hooks/tgmpa-plugins.php:9
+msgid "Elementor"
+msgstr ""
+
+#: core/hooks/tgmpa-plugins.php:14
+msgid "Elementskit Lite"
+msgstr ""
+
+#: core/hooks/tgmpa-plugins.php:20
+msgid "Devmonsta"
+msgstr ""
+
+#: core/hooks/tgmpa-plugins.php:25
+msgid "Wp Social"
+msgstr ""
+
+#: core/hooks/tgmpa-plugins.php:30
+msgid "One Click Demo Import"
+msgstr ""
+
+#: core/hooks/tgmpa-plugins.php:36
+msgid "Mailchimp"
+msgstr ""
+
+#: core/hooks/tgmpa-plugins.php:41
+msgid "Wp Ultimate Review"
+msgstr ""
+
+#: core/hooks/tgmpa-plugins.php:46
+msgid "Qoxag Essential"
+msgstr ""
+
+#: core/hooks/widget-areas.php:11
+msgid "Blog widget area"
+msgstr ""
+
+#: core/hooks/widget-areas.php:13
+msgid "Appears on posts."
+msgstr ""
+
+#: core/hooks/widget-areas.php:32
+msgid "Category widget area"
+msgstr ""
+
+#: core/hooks/widget-areas.php:34
+msgid "Appears on Category."
+msgstr ""
+
+#: core/hooks/woocommerce.php:9
+msgid "View your shopping cart"
+msgstr ""
+
+#: core/hooks/woocommerce.php:11
+#, php-format
+msgid "%d item"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:393
+#: core/libs/class-tgm-plugin-activation.php:920
+#: core/libs/class-tgm-plugin-activation.php:2626
+#: core/libs/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:394
+#: core/libs/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:395
+#: core/libs/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: core/libs/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:1027
+#: core/libs/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:1214
+#: core/libs/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: core/libs/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: core/libs/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: core/libs/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3602
+#: core/libs/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3602
+#: core/libs/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: devmonsta/options/customizer.php:17
+msgid "Theme settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:18
+msgid "Theme options panel"
+msgstr ""
+
+#: devmonsta/options/customizer.php:27
+msgid "Header Settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:39
+msgid "Header builder Enable ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:40
+msgid "Do you want to enable n in header ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:55
+msgid "How to edit header"
+msgstr ""
+
+#: devmonsta/options/customizer.php:69
+msgid "Search button show"
+msgstr ""
+
+#: devmonsta/options/customizer.php:70
+msgid "Do you want to show search button in header?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:88
+msgid "General settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:97
+msgid "Preloader show"
+msgstr ""
+
+#: devmonsta/options/customizer.php:98
+msgid "Do you want to show preloader on your site ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:112
+msgid "Preloader logo"
+msgstr ""
+
+#: devmonsta/options/customizer.php:119
+msgid "Reading progressbar"
+msgstr ""
+
+#: devmonsta/options/customizer.php:120
+msgid "Do you want to enable reading progressbar?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:132
+msgid "Progressbar Color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:142
+msgid "Reading progressbar area"
+msgstr ""
+
+#: devmonsta/options/customizer.php:143
+msgid "Select option for reading progressbar on top "
+msgstr ""
+
+#: devmonsta/options/customizer.php:146
+msgid "Blog Post"
+msgstr ""
+
+#: devmonsta/options/customizer.php:147
+msgid "Blog Page"
+msgstr ""
+
+#: devmonsta/options/customizer.php:148
+msgid "Blog Category"
+msgstr ""
+
+#: devmonsta/options/customizer.php:149
+msgid "All"
+msgstr ""
+
+#: devmonsta/options/customizer.php:157
+msgid "Custom Container Width"
+msgstr ""
+
+#: devmonsta/options/customizer.php:158 devmonsta/options/customizer.php:173
+msgid "Do you want to enable custom container width?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:172
+msgid "Custom Container Width Laptop"
+msgstr ""
+
+#: devmonsta/options/customizer.php:186
+msgid "Custom Container Width Desktop"
+msgstr ""
+
+#: devmonsta/options/customizer.php:202
+msgid "Banner settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:211
+msgid "Page banner"
+msgstr ""
+
+#: devmonsta/options/customizer.php:225 devmonsta/options/customizer.php:291
+#: devmonsta/options/customizer.php:362 devmonsta/options/customizer.php:421
+#: devmonsta/options/posts/page.php:24
+msgid "Show banner?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:226 devmonsta/options/customizer.php:292
+#: devmonsta/options/customizer.php:363 devmonsta/options/customizer.php:422
+#: devmonsta/options/posts/page.php:25
+msgid "Show or hide the banner"
+msgstr ""
+
+#: devmonsta/options/customizer.php:240 devmonsta/options/customizer.php:306
+#: devmonsta/options/customizer.php:377 devmonsta/options/customizer.php:436
+msgid "Show Breadcrumb?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:241 devmonsta/options/customizer.php:307
+#: devmonsta/options/customizer.php:378 devmonsta/options/customizer.php:437
+msgid "Show or hide the Breadcrumb"
+msgstr ""
+
+#: devmonsta/options/customizer.php:254 devmonsta/options/customizer.php:321
+#: devmonsta/options/customizer.php:451 devmonsta/options/posts/page.php:54
+msgid "Banner Title"
+msgstr ""
+
+#: devmonsta/options/customizer.php:262 devmonsta/options/customizer.php:329
+#: devmonsta/options/customizer.php:392 devmonsta/options/customizer.php:459
+msgid "Banner Background"
+msgstr ""
+
+#: devmonsta/options/customizer.php:279
+msgid "Blog banner"
+msgstr ""
+
+#: devmonsta/options/customizer.php:320
+msgid "Blog"
+msgstr ""
+
+#: devmonsta/options/customizer.php:350
+msgid "Blog single banner"
+msgstr ""
+
+#: devmonsta/options/customizer.php:409
+msgid "WooCommerce banner"
+msgstr ""
+
+#: devmonsta/options/customizer.php:450
+#: template-parts/banner/content-banner-woo.php:22
+#: template-parts/banner/content-banner-woo.php:35
+msgid "Products"
+msgstr ""
+
+#: devmonsta/options/customizer.php:480
+msgid "Style settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:490
+msgid "Body box layout?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:491
+msgid "Do you want to turn on box layout?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:506
+msgid "Background image"
+msgstr ""
+
+#: devmonsta/options/customizer.php:507
+msgid "Background image for box layout"
+msgstr ""
+
+#: devmonsta/options/customizer.php:514
+msgid "Theme dark style?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:515
+msgid "Do you want to use theme style?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:529
+msgid "Show Dark/Light Icon?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:530
+msgid "Do you want to show dark/light icon?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:545
+msgid "Body background"
+msgstr ""
+
+#: devmonsta/options/customizer.php:556
+msgid "Primary color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:567
+msgid "Secondary color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:596
+msgid "Body Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:619
+msgid "Heading H1 Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:642
+msgid "Heading H2 Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:665
+msgid "Heading H3 Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:688
+msgid "Heading H4 Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:711
+msgid "Heading H5 Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:734
+msgid "Heading H6 Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:743
+msgid "Blog settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:755 devmonsta/options/customizer.php:964
+msgid "Sidebar"
+msgstr ""
+
+#: devmonsta/options/customizer.php:758 devmonsta/options/customizer.php:967
+msgid "No sidebar"
+msgstr ""
+
+#: devmonsta/options/customizer.php:759 devmonsta/options/customizer.php:968
+msgid "Left Sidebar"
+msgstr ""
+
+#: devmonsta/options/customizer.php:760 devmonsta/options/customizer.php:969
+msgid "Right Sidebar"
+msgstr ""
+
+#: devmonsta/options/customizer.php:770
+msgid "Blog sticky sidebar"
+msgstr ""
+
+#: devmonsta/options/customizer.php:771
+msgid "Do you want to enable sticky sidebar?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:786 devmonsta/options/customizer.php:978
+msgid "Blog author"
+msgstr ""
+
+#: devmonsta/options/customizer.php:787 devmonsta/options/customizer.php:979
+msgid "Do you want to show blog author?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:801 devmonsta/options/customizer.php:993
+msgid "Blog Date Show"
+msgstr ""
+
+#: devmonsta/options/customizer.php:802 devmonsta/options/customizer.php:994
+msgid "Do you want to show blog Date?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:816 devmonsta/options/customizer.php:1008
+msgid "Category Show"
+msgstr ""
+
+#: devmonsta/options/customizer.php:817 devmonsta/options/customizer.php:1009
+msgid "Do you want to show blog Category?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:831 devmonsta/options/customizer.php:1037
+msgid "View Count Show"
+msgstr ""
+
+#: devmonsta/options/customizer.php:832 devmonsta/options/customizer.php:1038
+msgid "Do you want to show blog view count?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:846 devmonsta/options/customizer.php:1052
+msgid "Reading Time Show"
+msgstr ""
+
+#: devmonsta/options/customizer.php:847 devmonsta/options/customizer.php:1053
+msgid "Do you want to show blog reading time?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:861
+msgid "Title Length (Archive Page)"
+msgstr ""
+
+#: devmonsta/options/customizer.php:862
+msgid "You can limit post title in category and tag page"
+msgstr ""
+
+#: devmonsta/options/customizer.php:870
+msgid "Show Description?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:871
+msgid "Show or hide the description"
+msgstr ""
+
+#: devmonsta/options/customizer.php:885
+msgid "Description Length (Archive page)"
+msgstr ""
+
+#: devmonsta/options/customizer.php:886
+msgid "You can limit post desc in category and tag page"
+msgstr ""
+
+#: devmonsta/options/customizer.php:895 devmonsta/options/customizer.php:1083
+msgid "You can set number of categories"
+msgstr ""
+
+#: devmonsta/options/customizer.php:904 devmonsta/options/customizer.php:1169
+msgid "Do you want to show blog review rating?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:920
+msgid "Blog Details settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:935 devmonsta/options/posts/post.php:45
+msgid "Post Header Layout"
+msgstr ""
+
+#: devmonsta/options/customizer.php:936 devmonsta/options/posts/post.php:46
+msgid "Select single post header layout"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1022
+msgid "Comments Show"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1023
+msgid "Do you want to show blog Comments?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1067
+msgid "Category on Top"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1068
+msgid "Do you want to show category on top of meta?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1091
+msgid "Blog related post"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1092
+msgid "Do you want to show single blog related post?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1105
+msgid "Related title"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1113
+msgid "Related subtitle"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1121
+msgid "Related post count"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1130
+msgid "Blog Social Share"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1131
+msgid "Do you want to show blog social share?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1145
+msgid "Infinite Scroll?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1146
+msgid "Do you want to turn on infinite scroll in Single post"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1160
+msgid "Number of Posts to show"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1183
+msgid "Tags Show"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1184
+msgid "Do you want to show tags?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1200
+msgid "Category Settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1215
+#: devmonsta/options/taxonomies/category.php:59
+msgid "Category Layout"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1216
+#: devmonsta/options/taxonomies/category.php:60
+msgid "Select category layout"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1251
+msgid "Footer settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1263
+msgid "Footer builder Enable ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1264
+msgid "Do you want to enable footer builder ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1279
+msgid "How to edit footer"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1295
+msgid "Background color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1299
+msgid "Footer background color of rgba-color-picker goes here"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1307
+msgid "Text color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1311
+msgid "You can change the text color with rgba color or solid color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1323
+msgid "You can change the link color with rgba color or solid color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1331
+msgid "Widget Title Color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1335
+msgid "You can change the widget title color with rgba color or solid color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1343
+msgid "Copyright Background Color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1347
+msgid ""
+"You can change the copyright background color with rgba color or solid color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1356
+msgid "Copyright Text Color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1360
+msgid "You can change the copyright tet color with rgba color or solid color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1370 devmonsta/options/customizer.php:1471
+msgid "Copyright text"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1371
+msgid "This text will be shown at the footer of all pages."
+msgstr ""
+
+#: devmonsta/options/customizer.php:1379
+msgid "Footer Padding Top"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1380
+msgid "Use Footer Padding Top"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1391
+msgid "Footer Padding Bottom"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1392
+msgid "Use Footer Padding Bottom"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1403
+msgid "AMP settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1412
+msgid "Header Logo"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1419
+msgid "Header Menu"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1428
+msgid "Show Topbar?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1429
+msgid "Do you want to show topbar?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1443
+msgid "Facebook link"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1450
+msgid "Twitter link"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1457
+msgid "Instagram link"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1464
+msgid "LinkedIn link"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1479
+msgid "Show back to top?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1480
+msgid "Do you want to show back to top?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1496
+msgid "Optimization settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1508
+msgid "Load Fontawesome icons ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1509
+msgid "Do you want to load font awesome icons ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1524
+msgid "Load Block Library css files ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1525
+msgid "Do you want to load block library css files ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1540
+msgid "Load Elementor Icons?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1541
+msgid "Do you want to load elementor icons?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1556
+msgid "Load Elementskit Icons?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1557
+msgid "Do you want to load elementskit icons?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1572
+msgid "Load WP Social Icons?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1573
+msgid "Do you want to load wp social icons?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1589
+msgid "Instagram settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1596
+msgid "Username"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1597
+msgid "Your instagram username"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1605
+msgid "Client ID"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1606
+msgid "Your instagram client ID"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1614
+msgid "Access token"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1615
+msgid "Your instagram access token"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1626
+msgid "Google analytics settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1633
+msgid "Google Analytics Code"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1634
+msgid "Your google analytics code here"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1645
+msgid "Ads settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1654
+msgid "Header Ads"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1655
+msgid "Only works when default header selected"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1663
+msgid "Single Post Content Top Ads"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1664 devmonsta/options/customizer.php:1673
+msgid "Paste the ads code here"
+msgstr ""
+
+#: devmonsta/options/customizer.php:1672
+msgid "Single Post Content Bottom Ads"
+msgstr ""
+
+#: devmonsta/options/posts/page.php:13
+msgid "Page Settings"
+msgstr ""
+
+#: devmonsta/options/posts/page.php:39
+msgid "Show Breadcumb?"
+msgstr ""
+
+#: devmonsta/options/posts/page.php:40
+msgid "Show or hide the breadcumb"
+msgstr ""
+
+#: devmonsta/options/posts/page.php:53
+msgid "Add your Page hero title"
+msgstr ""
+
+#: devmonsta/options/posts/page.php:61
+msgid "Upload a page header image"
+msgstr ""
+
+#: devmonsta/options/posts/page.php:62
+msgid "Banner image"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:26
+#: devmonsta/options/taxonomies/category.php:40
+msgid "Overwrite Layout"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:27
+msgid "It will orvewrite the customize settings single post layout"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:78
+msgid "Video URL"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:79
+msgid ""
+"Paste a video link from Youtube, Vimeo, Dailymotion, Facebook or Twitter it "
+"will be embedded in the post and the thumb used as the featured image of "
+"this post. You need to choose \"Video Format\" as post format to use "
+"\"Featured Video\"."
+msgstr ""
+
+#: devmonsta/options/posts/post.php:87
+msgid "Enter your audio URL"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:88
+msgid "Audio URL(Only for audio format)"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:95
+msgid "Quote title(Only for quote format)"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:103
+msgid "Enter quote author name"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:104
+msgid "Quote author name(Only for quote format)"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:111
+msgid "Quote author designation(Only for quote format)"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:119
+msgid "Enter quote website url"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:120
+msgid "Quote website URL(Only for quote format)"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:128 devmonsta/options/posts/post.php:136
+msgid "Gallery images"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:129
+msgid "Add gallery image(Only for gallery format)"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:137
+msgid "Add gallery image"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:143
+msgid "Upload a image"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:144
+msgid "Single image"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:156
+msgid "Paste the code of ads"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:157
+msgid "Post ads"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:173
+msgid "Recipe Enable"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:174
+msgid "It will show recipe meta in single post"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:200
+msgid "Cook Time:"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:213
+msgid "Total Time:"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:226
+msgid "Servings:"
+msgstr ""
+
+#: devmonsta/options/taxonomies/category.php:14
+msgid "Text Color"
+msgstr ""
+
+#: devmonsta/options/taxonomies/category.php:15
+msgid "Text color of this category"
+msgstr ""
+
+#: devmonsta/options/taxonomies/category.php:24
+msgid "Background color of this category"
+msgstr ""
+
+#: devmonsta/options/taxonomies/category.php:32
+msgid "Category Image"
+msgstr ""
+
+#: devmonsta/options/taxonomies/category.php:33
+msgid "Category Image of this category"
+msgstr ""
+
+#: devmonsta/options/taxonomies/category.php:41
+msgid "It will orvewrite the customize settings category layout"
+msgstr ""
+
+#: functions.php:89
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:249
+msgid "Cancel Preloader"
+msgstr ""
+
+#: page.php:34 template-parts/blog/contents/single/content-style1.php:112
+#: template-parts/blog/contents/single/content-style2.php:106
+#: template-parts/blog/contents/single/content-style3.php:72
+#: template-parts/blog/contents/single/content-style4.php:53
+msgid "Edit"
+msgstr ""
+
+#: search.php:34
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:101 single.php:183
+msgid "Share This:"
+msgstr ""
+
+#: template-parts/blog/category/parts/content.php:12
+#: template-parts/blog/contents/format/standard-gallery.php:13
+#: template-parts/blog/contents/format/standard-image.php:15
+#: template-parts/blog/contents/format/standard-image.php:31
+#: template-parts/blog/contents/format/standard-quote.php:9
+#: template-parts/blog/contents/format/standard-video.php:13
+#: template-parts/blog/contents/format/standard.php:15
+#: template-parts/blog/contents/format/standard.php:31
+msgid "Sticky"
+msgstr ""
+
+#: template-parts/blog/category/style/content-style4.php:18
+#: template-parts/blog/category/style/content-style6.php:18
+msgid "Latest "
+msgstr ""
+
+#: template-parts/blog/contents/content-none.php:2
+msgid "Nothing found!"
+msgstr ""
+
+#: template-parts/blog/contents/content-none.php:3
+msgid "It looks like nothing was found here. Maybe try a search?"
+msgstr ""
+
+#: template-parts/blog/contents/content-page.php:16
+#: template-parts/blog/contents/single/content-style1.php:101
+#: template-parts/blog/contents/single/content-style2.php:95
+#: template-parts/blog/contents/single/content-style3.php:61
+#: template-parts/blog/contents/single/content-style4.php:42
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: template-parts/blog/post-parts/part-author.php:34
+msgid "Super Admin"
+msgstr ""
+
+#: template-parts/blog/post-parts/related-post.php:5
+msgid "Stories for you"
+msgstr ""
+
+#: template-parts/blog/post-parts/related-post.php:6
+msgid "Related"
+msgstr ""
+
+#: template-parts/headers/header-content.php:31
+msgid "Primary menu"
+msgstr ""
+
+#: template-parts/headers/header-content.php:40
+msgid " X"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeforest.net/user/tripples/portfolio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Qoxag - News Magazine WordPress Theme.."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tripples"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themewinter.com"
+msgstr ""

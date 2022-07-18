@@ -1,0 +1,319 @@
+/*
+* Dark Style
+*/
+@import "./variable";
+
+.body {
+	transition: all ease 0.3s;
+}
+// stylelint-disable-next-line
+.qoxag-news-ticker .swiper-navigation-wrapper,
+.ekit-template-content-header .elementor-section-wrap,
+.qoxag-news-ticker .swiper-navigation-wrapper,
+.ekit-template-content-header .elementor-section {
+	transition: all ease 0.25s;
+}
+
+.dark-mode {
+	position: relative;
+
+	.home-inner-content,
+	.qoxag-news-ticker .swiper-navigation-wrapper,
+	body {
+		background: #000;
+	}
+	// stylelint-disable-next-line
+	.nav-tabs .nav-item .nav-link,
+	.nav-tabs .nav-item .nav-link h3,
+	.nav-tabs .nav-item .nav-link.active,
+	.post-title a,
+	.post-meta span,
+	.post-meta span a,
+	.post-content p,
+	.breadcrumb li,
+	.breadcrumb li a,
+	.post-title,
+	.blog-single .post-meta li,
+	.blog-single .post-meta li.post-author a,
+	.blog-single .post-meta li.post-comment a,
+	.wp-block-quote::before,
+	.wp-block-quote p,
+	.wp-block-quote cite,
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	.blog-single .tag-lists a,
+	.blog-single ul li,
+	.blog-single ol li,
+	.post-date-info,
+	.error-page .error-code,
+	.pagination li a i,
+	.pagination li span i,
+	.author-box .author-url a,
+	.post-content .post-meta-info li,
+	.post-content .post-meta-info li a,
+	.ekit-wid-con .elementskit-section-title-wraper .elementskit-section-subtitle,
+	.ekit-wid-con .elementskit-infobox .elementskit-info-box-icon i,
+	.ekit-wid-con .ekit-offcanvas-toggle-wraper .ekit_offcanvas-sidebar i,
+	.sidebar ul li a,
+	.post-readmore,
+	.post-navigation span,
+	.post-navigation .post-next a p,
+	.post-navigation .post-previous a p,
+	.sidebar .widget .widget-title,
+	.qoxag-grid-single .post-heading a,
+	.qoxag-date span,
+	.elementor-icon-list-text,
+	.dark-mode-social a,
+	.qoxag-grid-single .post-heading a {
+		color: #fff;
+	}
+
+	// important color
+	body,
+	.qoxag-grid-single .post-heading a,
+	.elementskit-section-title,
+	.elementskit-section-title > span,
+	.post-navigation-item,
+	.footer-widget.widget.widget_search .search-button,
+	.sidebar .widget.widget_search .search-button,
+	.wp-block-search .wp-block-search__button,
+	.search-forms .search-button,
+	.tranding-bar .swiper-slide .post-title a,
+	.qoxag-date span,
+	.ekit_social_media > li > a,
+	.qoxag-grid-single .post-meta span,
+	.entry-content a:hover,
+	.comment-form .logged-in-as,
+	.widget-title span,
+	.blocks-gallery-caption,
+	.comment-form textarea.form-control,
+	.not-found .input-group .form-control,
+	.error404 .error-page .error-message h3,
+	.dark-section .elementor-icon-list-text,
+	.blog-single .nobanner-breadcrumb .breadcrumb li a,
+	.elementskit-menu-hamburger > .ekit-menu-icon,
+	.qoxag-authors .author-name,
+	.ts-bg-block .qoxag-grid-single .post-excerpt,
+	.title-bg-dark .section-title,
+	.elementskit-menu-hamburger.breadcrumb,
+	.qoxag-grid-single .post-excerpt,
+	.qoxag-post-tab .qoxag-tab-a .tab-head,
+	.title-style2 .section-title,
+	.ultp-block-items-wrap .ultp-block-item .ultp-block-title a,
+	.ultp-block-items-wrap .ultp-block-meta span,
+	.ultp-block-items-wrap .ultp-block-meta span a,
+	.ultp-block-items-wrap .ultp-block-meta span a:hover,
+	.ultp-block-excerpt,
+	.ultp-heading-wrap .ultp-heading-inner span,
+	.ultp-block-items-wrap .ultp-block-readmore a {
+		color: #fff !important;
+	}
+
+	.ultp-block-items-wrap .ultp-block-meta span svg,
+	.ultp-block-c6faee .ultp-block-readmore a svg {
+		fill: #fff !important;
+	}
+
+	.title-style2 .section-subtitle {
+		opacity: 0.5;
+	}
+
+	.dark-title {
+
+		.elementor-widget-container {
+			background-color: transparent !important;
+
+			.qoxag-title {
+
+				.section-title {
+
+					&::before {
+						background: #000;
+					}
+				}
+			}
+		}
+	}
+	// background
+	.single-post .blog-single .main-post-header-bg,
+	.elementor-section-wrap,
+	.elementor-section {
+		background: transparent !important;
+	}
+
+	.qoxag-grid-single.thumb-left .post-content,
+	.qoxag-grid-single.thumb-right .post-content,
+	.dark-title-bg .elementor-widget-container,
+	.tag-lists a,
+	.tagcloud a
+	.elementor-section,
+	.dark-feature-bg .qoxag-grid-single .post-content,
+	.qoxag-news-ticker .swiper-navigation-wrapper,
+	.title-style2  .qoxag-title .section-title::before,
+	.title-style3 .elementor-widget-container,
+	.title-style3 .qoxag-title .section-title::before,
+	.body-box-layout .home-inner-content,
+	.body-box-layout .ekit-template-content-header,
+	.body-box-layout .ekit-template-content-footer,
+	.body-box-layout .main-container {
+		background-color: #000 !important;
+	}
+
+
+	// border color
+	.xs_social_counter_widget .xs_counter_url.wslu-counter-space li {
+		border-color: transparent;
+	}
+
+	.single-post .banner-bg-style3 .nobanner-breadcrumb {
+		border-top: none;
+	}
+
+	// stylelint-disable-next-line
+	.bg-dark-alt,
+	.bg-dark-alt .ultp-block-slider-wrap .ultp-block-content .ultp-block-content-inner,
+	.author-box,
+	.red-grid .qoxag-grid-single .post-content,
+	.ekit-template-content-footer,
+	.single-post .banner-bg-style3 .main-post-header-bg,
+	.load-more-btn::after,
+	.footer-widget.widget.widget_search .search-button,
+	.sidebar .widget.widget_search .search-button,
+	.wp-block-search .wp-block-search__button,
+	.search-forms .search-button,
+	.footer-widget.widget.widget_search .form-control,
+	.sidebar .widget.widget_search .form-control,
+	.wp-block-search .wp-block-search__input,
+	.search-forms .search-button,
+	.not-found .input-group .form-control,
+	.footer-dark .qoxag-grid-single .post-content,
+	.qoxag-video-style-2 .qoxag-grid-single .post-content,
+	.title-style3.dark .elementor-widget-container,
+	.title-style3.dark .qoxag-title .section-title::before,
+	.post-slider .bg-dark-alt > .elementor-widget-wrap,
+	.video-section .qoxag-grid-single .post-content,
+	.video-section .title-style2 .qoxag-title .section-title::before {
+		background: #1f1f1f !important;
+	}
+
+	.dark-footer-social {
+		background: #4e65ff !important;
+	}
+
+	.ts-count-post-style-2.ts-count-post .qoxag-post-grid div[class^="col-"] .qoxag-grid-single::before {
+		color: #1f1f1f;
+		border-color: transparent;
+	}
+
+	// post widget content background
+
+	.dark-mode-content-bg {
+
+		.post-content {
+			background-color: transparent !important;
+		}
+	}
+
+	// blog single
+
+	.blog-single {
+
+		.post {
+
+			.post-body {
+				background: transparent;
+			}
+		}
+
+		.entry-content {
+
+			.wp-block-quote {
+
+				p {
+					color: #ffffffd1;
+				}
+			}
+		}
+	}
+
+	.single-post {
+
+		.wp-block-latest-posts {
+
+			li {
+
+				a {
+					color: #fff;
+
+					&:hover {
+						border-color: #fff;
+					}
+				}
+			}
+		}
+	}
+
+	.dark-section {
+		margin-bottom: 0 !important;
+	}
+
+	// border color
+
+	.elementor-widget-container,
+	.qoxag-grid-single,
+	.post-navigation,
+	.post-single,
+	.widget-title,
+	.blog-post-comment .comment-respond .comment-form .form-control,
+	.nobanner-breadcrumb,
+	.post-navigation-item,
+	.sidebar ul li,
+	.footer-widget ul li,
+	.elementor-icon-list-item,
+	.dark-mode-social a,
+	.dark-section .elementor-element-populated,
+	.tag-lists a,
+	.social-share ul li.xs-share-li,
+	.tagcloud a,
+	.ekit_social_media > li > a,
+	.post-tag-container,
+	.elementskit-menu-hamburger,
+	.dark-section {
+		border-color: #464c58 !important;
+	}
+
+
+	.post-heading {
+
+		a {
+			display: inline;
+			padding-bottom: 3px;
+			background: linear-gradient(to bottom, $white 0%, $white 98%);
+			background-repeat: no-repeat;
+			background-position: left 100%;
+			background-size: 0 2px;
+			transition: all 0.3s linear;
+
+			&:hover {
+				background: linear-gradient(to bottom, #fff0 95%, #fff 0) !important;
+				background-size: 100% 2px;
+				background-repeat: no-repeat;
+				background-position: left 100%;
+				transition: all 0.3s linear;
+			}
+		}
+	}
+
+	@media (min-width: 1024px) {
+
+		.elementskit-navbar-nav > li > a {
+			color: #fff !important;
+		}
+	}
+
+}
+

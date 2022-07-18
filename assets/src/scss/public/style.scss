@@ -1,0 +1,21 @@
+/*
+Theme Name: Qoxag
+Theme URI: https://themeforest.net/user/tripples/portfolio
+Author: Tripples
+Author URI: https://themewinter.com
+Description: Qoxag - News Magazine WordPress Theme..
+Version: 1.0.6
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: qoxag
+Tags: theme-options, post-formats, featured-images
+*/
+
+
+@import "./_bootstrap_grid";
+@import "./_blog";
+@import "./header";
+@import "./variable";
+@import "./_mixin";
+@import "./master";
+
